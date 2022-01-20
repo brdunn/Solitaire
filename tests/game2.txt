@@ -1,0 +1,19 @@
+RULES:
+    turn 3
+    limit 2
+FOUNDATIONS:
+    Kc
+    Kd
+    Kh
+    Qs
+TABLEAU:
+    |
+    | 
+    |
+    |
+    | 
+    |
+    |
+STOCK:
+    Ks |
+MOVES:

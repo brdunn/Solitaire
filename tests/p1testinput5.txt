@@ -1,0 +1,16 @@
+#The output should be as follows:
+#Missing cards: Ks Qd Kd Qc
+
+RULES: turn 1 unlimited
+FOUNDATIONS: Jc Jd Jh Js
+TABLEAU:
+|
+| Kc Qh
+|
+| Kh
+|
+|
+|
+STOCK:
+Qs |
+MOVES:

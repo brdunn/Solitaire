@@ -1,0 +1,16 @@
+.idea
+.vscode
+*.o
+*.opp
+advance
+check
+winnable
+game
+testoutput.txt
+test.cpp
+testwin1.txt
+testwin4.txt
+testwin5.txt
+testwin2.txt
+testwin3.txt
+termbox
